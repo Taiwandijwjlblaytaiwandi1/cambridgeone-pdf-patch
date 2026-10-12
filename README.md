@@ -30,4 +30,4 @@
 
 ---
 
-*للاستخدام الشخصي. مبني على CambridgeOne 2.54.0 — لو طلعت رسالة "unsupported version" حدّث الأداة.*
+*لأغراض تعليمية فقط. مبني على CambridgeOne 2.54.0 — لو طلعت رسالة "unsupported version" حدّث الأداة.*
